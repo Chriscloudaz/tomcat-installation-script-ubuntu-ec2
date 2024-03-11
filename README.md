@@ -25,11 +25,11 @@ This script automates the installation and configuration of Apache Tomcat on a n
 
 `git clone https://github.com/Chriscloudaz/tomcat-installation-script-ubuntu-ec2/` 
 
-3. Set the preferred location for your logfile.
+2. Set the preferred location for your logfile.
 
-4. Set your preferred username and password under Tomcat users. 
+3. Set your preferred username and password under Tomcat users. 
 
-5. Run the script with sudo permissions.
+4. Run the script with sudo permissions.
    
 `sudo bash tomcat-install-script.sh`
 
