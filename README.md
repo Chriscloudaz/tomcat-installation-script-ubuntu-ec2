@@ -22,7 +22,7 @@ This script automates the installation and configuration of Apache Tomcat on a n
 ## Usage
 
 1. Copy the script or clone to your Ubuntu EC2 instance.
-   git clone https://github.com/Chriscloudaz/tomcat-installation-script-ubuntu-ec2/ 
+`git clone https://github.com/Chriscloudaz/tomcat-installation-script-ubuntu-ec2/` 
 
 2. Set the preferred location for your logfile.
 
