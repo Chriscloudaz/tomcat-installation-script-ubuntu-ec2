@@ -22,13 +22,15 @@ This script automates the installation and configuration of Apache Tomcat on a n
 ## Usage
 
 1. Copy the script or clone to your Ubuntu EC2 instance.
+
 `git clone https://github.com/Chriscloudaz/tomcat-installation-script-ubuntu-ec2/` 
 
-2. Set the preferred location for your logfile.
+3. Set the preferred location for your logfile.
 
-3. Set your preferred username and password under Tomcat users. 
+4. Set your preferred username and password under Tomcat users. 
 
-4. Run the script with sudo permissions.
+5. Run the script with sudo permissions.
+   
 `sudo bash tomcat-install-script.sh`
 
 Please feel free to reach out on chriscloudaz@gmail.com 
